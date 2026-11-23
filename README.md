@@ -43,4 +43,4 @@ O sistema permite:
 <img width="1887" height="870" alt="image" src="https://github.com/user-attachments/assets/71707791-fa68-474d-bae3-8d8597ea83f8" />
 
 
-**Feira Tecnológica 2026**
+
